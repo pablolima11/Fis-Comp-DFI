@@ -1,1 +1,2 @@
-# Repositório voltado para agregar conteúdos de Física Computacional
+# Física Computacional
+ Ajude a agregar conteúdos de Física Computacional e temas afins.
