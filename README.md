@@ -8,8 +8,8 @@ Torne-se um colaborador.
 ***
 
 ## Tabela de Conteúdos
-- [HEP](#hep)
-  * [Tools](#tools)
+- [HEP - Física de Altas Energias](#hep)
+  * [Ferramentas](#tools)
   * [Event Generators](#event-generators)
   * [Event Analysers](#event-analysers)
   * [Global Fitters](#global-fitters)
@@ -17,11 +17,11 @@ Torne-se um colaborador.
   * [Direct Detection](#direct-detection)
   * [Feyn Family](#feyn-family)
   * [Statistics](#statistics)
-- [COSMO](#cosmo)
+- [COSMOLOGIA](#cosmo)
   * [Einstein-Boltzmann Numerical Solvers](#einstein-boltzmann-numerical-solvers)
   * [Cosmological Parameter Estimation](#cosmological-parameter-estimation-and-statistical-analysis)
   * [General Cosmology](#general-cosmology-resources)
-- [ASTRO](#astro)
+- [ASTRONOMIA](#astro)
   * [Black hole perturbation theory](#black-hole-perturbation-theory)
   * [Cosmic Rays](#cosmic-rays)
   * [N-body Simulations](#n-body-simulation)
