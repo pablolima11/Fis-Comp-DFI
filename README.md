@@ -1,6 +1,6 @@
 # Física Computacional e Afins
 
-Esse repositório tem por objetivo agregar conteúdos de códigos abertos, descrições de softwares, programas e ferramentas para impulsionar e facilitar o desenvolvimento de projetos de Física e Ciências no geral.
+Esse repositório tem por objetivo agregar conteúdos de código aberto, descrições de softwares, programas e ferramentas para impulsionar e facilitar o desenvolvimento de projetos de Física e Ciências no geral.
 
 Torne-se um colaborador. 
 
