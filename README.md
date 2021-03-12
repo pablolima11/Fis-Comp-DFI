@@ -1,9 +1,13 @@
+# Física Computacional e Afins
 
+Esse repositório tem por objetivo agregar conteúdos de códigos abertos, descrições de softwares, programas e ferramentas para impulsionar e facilitar o desenvolvimento de projetos de Física e Ciências no geral.
+
+Torne-se um colaborador. 
 
 
 ***
 
-## Table of contents
+## Tabela de Conteúdos
 - [HEP](#hep)
   * [Tools](#tools)
   * [Event Generators](#event-generators)
@@ -31,9 +35,9 @@
   * [Neutrino Code](#neutrino-code)
 
 ***
-# HEP 
+# HEP - High Energy Physics ou Física de Altas Energias
 
-## Tools
+## Ferramentas
 
 ### Root
 
